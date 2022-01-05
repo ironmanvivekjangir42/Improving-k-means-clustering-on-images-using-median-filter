@@ -1,0 +1,1 @@
+This project tries to improve the clustering of images by softening the textures in an image and preserving edges. This is done using edge-preserving smoothening fliters. The result gives well segmented images which are less effected by noise and have better defined clusters.
